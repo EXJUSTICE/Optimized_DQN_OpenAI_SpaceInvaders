@@ -1,6 +1,6 @@
 # Optimized Deep Q-learning for Automated Atari Space Invaders: An Implementation in Tensorflow 2.0.
 ## Exploring the Importance of Data Preprocessing
-Deep Q-learning and Epsilon Greedy Policies to tackle the OpenAI MsPacman environment, where we explore the importance of  Data Preprocessing through frame composition and stacking.
+Notebook utilizing Deep Q-learning and Epsilon Greedy Policies to tackle the OpenAI Space Invaders environment, where we explore the importance of  Data Preprocessing through frame composition and stacking.
 
 * Frame stacking: the joining of several game frames together to provide a temporal reference of our game environment.
 * Frame composition: the element-wise maximization of two game frames together to provide a motion reference that also overcomes the issue of partial rendering.
